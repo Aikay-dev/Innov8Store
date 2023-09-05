@@ -12,6 +12,8 @@ function App() {
       <a href="https://www.youtube.com/watch?v=8Dd7KRpKeaE&pp=ygUUbGVhcm4gZ2l0IGFuZCBnaXRodWI%3D">
         LEARN GIT AND GITHUB FROM YOUTUBE
       </a>
+
+      <p> Name: Davia</p>
     </>
   );
 }
